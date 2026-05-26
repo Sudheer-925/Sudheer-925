@@ -138,21 +138,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudheer-925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=f97316&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheer-925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" width="41%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudheer-925&theme=react-dark&hide_border=true&area=true&color=A855F7&line=f97316&point=ffffff" width="95%"/>
-</div>
-
----
-
 ## 📜 Research Publication
 
 <div align="center">
